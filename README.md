@@ -44,7 +44,9 @@ The project combines these core concepts with a modern desktop interface built u
 
 ### Main Interface
 
-> *(Insert screenshot here)*
+<p align="center">
+  <img src="assets/ui.png" width="900">
+</p>
 
 <p align="center">
 <img src="images/main_window.png" width="900">
@@ -54,7 +56,9 @@ The project combines these core concepts with a modern desktop interface built u
 
 ### Training Output
 
-> *(Insert screenshot here)*
+<p align="center">
+  <img src="assets/output.png" width="900">
+</p>
 
 <p align="center">
 <img src="images/output.png" width="900">
@@ -64,7 +68,9 @@ The project combines these core concepts with a modern desktop interface built u
 
 ### Loss Graph
 
-> *(Insert screenshot here)*
+<p align="center">
+  <img src="assets/graph.png" width="900">
+</p>
 
 <p align="center">
 <img src="images/loss_graph.png" width="700">
@@ -72,9 +78,15 @@ The project combines these core concepts with a modern desktop interface built u
 
 ---
 
-### Computation Graph
+### Backpropogation flowchart
 
-> *(Insert screenshot here)*
+<p align="center">
+  <img src="assets/flow.png" width="900">
+</p>
+
+<p align="center">
+  <img src="assets/full_flow.png" width="900">
+</p>
 
 <p align="center">
 <img src="images/computation_graph.png" width="900">
