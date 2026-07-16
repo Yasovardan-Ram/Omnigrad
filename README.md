@@ -204,6 +204,12 @@ OmniGrad
 
 ---
 
+## Project Metadata
+
+* **Completed:** July 2026 (Pre-college)
+* **Developer Age:** 17
+* **Primary Focus:** Automatic differentiation, neural networks from scratch, and desktop GUI development
+
 # 🎯 Project Goals
 
 OmniGrad was built to deepen the understanding of:
