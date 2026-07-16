@@ -55,10 +55,6 @@ The latest standalone Windows executable can be downloaded from the **Releases**
   <img src="assets/ui.png" width="900">
 </p>
 
-<p align="center">
-<img src="images/main_window.png" width="900">
-</p>
-
 ---
 
 ### Training Output
@@ -67,9 +63,6 @@ The latest standalone Windows executable can be downloaded from the **Releases**
   <img src="assets/output.png" width="900">
 </p>
 
-<p align="center">
-<img src="images/output.png" width="900">
-</p>
 
 ---
 
@@ -79,9 +72,6 @@ The latest standalone Windows executable can be downloaded from the **Releases**
   <img src="assets/graph.png" width="900">
 </p>
 
-<p align="center">
-<img src="images/loss_graph.png" width="700">
-</p>
 
 ---
 
