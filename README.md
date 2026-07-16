@@ -88,9 +88,6 @@ The project combines these core concepts with a modern desktop interface built u
   <img src="assets/full_flow.png" width="900">
 </p>
 
-<p align="center">
-<img src="images/computation_graph.png" width="900">
-</p>
 
 ---
 
