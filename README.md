@@ -38,6 +38,13 @@ The project combines these core concepts with a modern desktop interface built u
 - 🛡️ Input validation and user-friendly error handling
 - 💬 Helpful tooltips throughout the interface
 
+## 📦 Downloads
+
+The latest standalone Windows executable can be downloaded from the **Releases** page.
+
+➡️ **[Download OmniGrad](https://github.com/Yasovardan-Ram/Omnigrad/releases/latest)**
+
+> No Python installation required.
 ---
 
 # 📷 Screenshots
