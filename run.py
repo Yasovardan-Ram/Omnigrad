@@ -202,7 +202,7 @@ class ui_func:
                                             'Please Enter Valid Value\n\n')
                 return
 
-            try:# handling exception in case of empty or incorrect value given by user
+            try: # handling exception in case of empty or incorrect value given by user
                 n = int(self.t_inputs['no_loop'].get('1.0','end').strip()) # no of loops
                 if n<=0 :
                     self.error_handler('\n>> No value or incorrect value was given for ''No of Loops'' field\n'
