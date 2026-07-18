@@ -47,7 +47,7 @@ The latest standalone Windows executable can be downloaded from the **Releases**
 > No Python installation required.
 ---
 
-# 📷 Screenshots
+#  Screenshots
 
 ### Main Interface
 
