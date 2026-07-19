@@ -24,7 +24,7 @@ The project combines these core concepts with a modern desktop interface built u
 
 ---
 
-## ✨ Features
+##  Features
 
 - 🧠 Custom scalar autograd engine
 - 🔗 Feedforward neural network implemented from scratch
@@ -38,11 +38,11 @@ The project combines these core concepts with a modern desktop interface built u
 - 🛡️ Input validation and user-friendly error handling
 - 💬 Helpful tooltips throughout the interface
 
-## 📦 Downloads
+##  Downloads
 
 The latest standalone Windows executable can be downloaded from the **Releases** page.
 
-➡️ **[Download OmniGrad](https://github.com/Yasovardan-Ram/Omnigrad/releases/latest)**
+ **[Download OmniGrad](https://github.com/Yasovardan-Ram/Omnigrad/releases/latest)**
 
 > No Python installation required.
 ---
@@ -88,7 +88,7 @@ The latest standalone Windows executable can be downloaded from the **Releases**
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ### 1. Clone the repository
 
@@ -162,12 +162,12 @@ dot - graphviz version ...
 ### 5. Run OmniGrad
 
 ```bash
-python main.py
+python run.py
 ```
 
 ---
 
-# 🛠 Technologies
+# Technologies
 
 - Python
 - CustomTkinter
@@ -177,30 +177,13 @@ python main.py
 
 ---
 
-# 📂 Project Structure
-
-```
-OmniGrad
-│
-├── main.py
-├── ui_func.py
-├── requirements.txt
-├── README.md
-│
-├── images/
-│
-└── ...
-```
-
----
-
 ## Project Metadata
 
 * **Completed:** July 2026 (Pre-college)
 * **Developer Age:** 17
 * **Primary Focus:** Automatic differentiation, neural networks from scratch, and desktop GUI development
 
-# 🎯 Project Goals
+#  Project Goals
 
 OmniGrad was built to deepen the understanding of:
 
@@ -215,7 +198,7 @@ OmniGrad was built to deepen the understanding of:
 
 ---
 
-# 🙏 Acknowledgements
+#  Acknowledgements
 
 This project was inspired by **Micrograd** by **Andrej Karpathy**.
 
