@@ -5,7 +5,7 @@
 <h1 align="center">🧠 OmniGrad</h1>
 
 <p align="center">
-An interactive desktop application for building, training, and visualizing neural networks from scratch.
+An interactive desktop application for building, training, and visualizing neural networks from scratch.(NOT VIBECODED)
 </p>
 
 <p align="center">
